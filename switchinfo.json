@@ -1,0 +1,8 @@
+{
+  "vendor": "Cisco",
+  "product": "Switch",
+  "family": "IOS",
+  "Series": "2000",
+  "ports": 48,
+  "vlans": [1,10,20,40]
+}
