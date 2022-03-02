@@ -8,6 +8,7 @@
   "mngment-ip": "192.168.1.99",
   "subnet": "192.168.1.0",
   "features" : {
-  	"python-shell" : true
+  	"python-shell" : true,
+	"version":"3.8.2"
   }
 }
