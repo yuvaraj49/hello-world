@@ -6,5 +6,8 @@
   "ports": 48,
   "vlans": [1,10,20,40,50],
   "mngment-ip": "192.168.1.99",
-  "subnet": "192.168.1.0"
+  "subnet": "192.168.1.0",
+  "features": {
+  	"ruby-cli": true
+  }
 }
